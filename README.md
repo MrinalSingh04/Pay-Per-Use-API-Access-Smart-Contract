@@ -7,7 +7,7 @@ This smart contract enables **developers to monetize their APIs** directly on-ch
 - Developers can register their API details and set prices for **per-call access** or **time-based subscriptions**.
 - Consumers can purchase access by paying ETH.
 - The contract tracks **usage counters** and **expiry times** to enforce fair access.
-- Developers can withdraw funds anytime.
+- Developers can withdraw funds anytime. 
 
 This brings **Web3-native payments** into the **API economy**, eliminating middlemen and ensuring transparent access tracking.
 
