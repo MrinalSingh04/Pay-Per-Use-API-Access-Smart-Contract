@@ -10,7 +10,7 @@ This smart contract enables **developers to monetize their APIs** directly on-ch
 - Developers can withdraw funds anytime. 
 
 This brings **Web3-native payments** into the **API economy**, eliminating middlemen and ensuring transparent access tracking.
-
+ 
 ---    
   
 ## ❓ Why build this? 
