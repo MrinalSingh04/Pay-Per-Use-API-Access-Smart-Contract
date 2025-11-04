@@ -14,7 +14,7 @@ This brings **Web3-native payments** into the **API economy**, eliminating middl
 ---         
      
 ## ❓ Why build this? 
-
+ 
 Today, most APIs rely on centralized payment processors (Stripe, Razorpay, etc.) and closed dashboards. These have several issues:
 
 1. **High fees** → Intermediaries take a cut.
