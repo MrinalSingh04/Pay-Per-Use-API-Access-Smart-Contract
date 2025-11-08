@@ -22,7 +22,7 @@ Today, most APIs rely on centralized payment processors (Stripe, Razorpay, etc.)
 3. **Global friction** → APIs serving worldwide users need multiple payment integrations.
 4. **Trust issue** → Developers and consumers must trust a central entity.
 
-👉 By moving access control **on-chain**:
+👉 By moving access control **on-chain**: 
 
 - **Developers** get direct, trustless payments.
 - **Consumers** get verifiable entitlements (calls/time).
